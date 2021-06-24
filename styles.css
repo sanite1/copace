@@ -104,7 +104,10 @@ body {
   padding-bottom: 20px;
   
 }
-@media (max-width: 500px) {
+@media (max-width: 480px) {
+  body {
+    font-size: 16px;
+  }
   /* Title section */
   .downloadbtn {
     margin: 20px 20px;
